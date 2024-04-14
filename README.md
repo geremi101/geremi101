@@ -1,5 +1,5 @@
-<h1> 👋 Hi, I’m @geremi101 </h1>
-
+<h1>Eze Geremi Matthew  </h1>
+- 👋 Hi, I’m @geremi101
 - 👤 I am a full stack developer 
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning Ethical Hacking
