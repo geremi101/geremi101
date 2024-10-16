@@ -1,19 +1,22 @@
 <h1>Eze Geremi Matthew  </h1>
-- 👋 Hi, I’m @geremi101
-- 👤 I am a full stack developer 
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on financial Applications 
-- 📫 How to reach me: geremilibrary@gmail.com
 
-💻 <h1>Languages I Speak</h1>
+  - 👋 Hi, I’m @geremi101
+  - 👤 I am a full stack developer 
+  - 👀 I’m interested in full stack development 
+  - 🌱 I’m currently working Ethical Hacking
+  - 💞️ I’m looking to collaborate on financial Applications and web3 project
+  - 📫 How to reach me: geremilibrary@gmail.com || +234 9164324075
+
+<h1>💻 Languages I Speak</h1>
 ***
 
-**Programming**
+<h2>Programming</h2>
 
-**Web Development**
+<h2>Web Development</h2>
 
-**Databases**
+<h2>Databases</h2>
+
+
 
 
 | Header 1 | Header 2 |
