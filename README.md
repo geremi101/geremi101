@@ -5,7 +5,7 @@
   - 👀 I’m interested in full stack development 
   - 🌱 I’m currently working Ethical Hacking
   - 💞️ I’m looking to collaborate on financial Applications and web3 project
-  - 📫 How to reach me: geremilibrary@gmail.com || +234 9164324075
+  - 📫 How to reach me: geremi@geremi101.com || geremilibrary@gmail.com || +234 9164324075
 
 <h1>💻 Languages I Speak</h1>
 ***
